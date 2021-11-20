@@ -5,7 +5,7 @@ RuneLite is a free, open source OldSchool RuneScape client.
 
 If you have any questions, please join our IRC channel on [irc.rizon.net #runelite](http://qchat.rizon.net/?channels=runelite&uio=d4) or alternatively our [Discord](https://discord.gg/ArdAhnN) server.
 
-## Project Layout
+## Project Layout (Test)
 
 - [cache](cache/src/main/java/net/runelite/cache) - Libraries used for reading/writing cache files, as well as the data in it
 - [http-api](http-api/src/main/java/net/runelite/http/api) - API for api.runelite.net
